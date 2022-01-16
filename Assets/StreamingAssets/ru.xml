@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<localizationData languageName="Russian">
+  <item key="pause" value="Пауза"/>
+  <item key="shield" value="Щит"/>
+  <item key="resume" value="Продолжить"/>
+  <item key="exit" value="Выйти"/>
+</localizationData>

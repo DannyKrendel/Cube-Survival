@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<localizationData languageName="English">
+  <item key="pause" value="Pause"/>
+  <item key="shield" value="Shield"/>
+  <item key="resume" value="Continue"/>
+  <item key="exit" value="Quit"/>
+</localizationData>
